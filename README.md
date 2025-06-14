@@ -2,13 +2,12 @@
 
 <!-- 🌟 Custom Banner -->
 <p align="center">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </p>
-
 
 <!-- 🖋 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Basim+Ali;MERN+Stack+Developer;React+|+Tailwind+Lover;Open+Source+Contributor;Let’s+Code+Awesome!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Basim+Ali;MERN+Stack+Developer;React+|+Tailwind+Lover;Open+Source+Contributor;Let’s+Code+Awesome!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 MERN Stack Developer | 🔥 React & Firebase Enthusiast</h3>
@@ -32,7 +31,7 @@
 
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
     </td>
   </tr>
 </table>
@@ -44,6 +43,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,figma&perline=15&theme=dark" alt="Tech Stack" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats & Contributions
@@ -62,6 +62,13 @@
 ---
 
 ### 🧠 Competitive Programming
+<!-- 🧠 LeetCode Stats (Glass Transparent Theme) -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mdbasimali?ext=contest&animation=true&theme=glass&font=JetBrains%20Mono" alt="LeetCode Stats Glass Theme" />
+</p>
+
+
+
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode_username)
 
