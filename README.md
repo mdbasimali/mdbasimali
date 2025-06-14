@@ -1,10 +1,8 @@
 <!-- GitHub Profile README for @mdbasimali -->
-
 <!-- 🌟 Custom Banner -->
 <p align="center">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 </p>
-
 <!-- 🖋 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Basim+Ali;MERN+Stack+Developer;React+|+Tailwind+Lover;Open+Source+Contributor;Let’s+Code+Awesome!" alt="Typing SVG" />
@@ -49,7 +47,7 @@
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdbasimali&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdbasimali&show_icons=true&theme=radical&cache_seconds=60" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbasimali&layout=compact&theme=radical" width="47%" />
 </div>
 
